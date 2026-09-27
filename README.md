@@ -2,9 +2,11 @@
 
 A one-page form a visiting nurse fills in when checking on an elderly patient at home. Built with React 19, TypeScript, Mantine 9, `@mantine/form` and Zod 4. All data in this repo is invented.
 
-**Live demo:** _<add your deployed URL here>_
+**Live demo:** https://geriatric-assessment-form-ten.vercel.app/
 
 ## Run it
+
+If `yarn` isn't available, the repo ships its own Yarn, so any command also works as `node .yarn/releases/yarn-4.18.0.cjs <command>`, for example `node .yarn/releases/yarn-4.18.0.cjs install`.
 
 ```bash
 yarn install
@@ -51,4 +53,6 @@ All rules live in `schema.ts`. The form uses `schemaResolver(assessmentSchema, {
 
 ## Time spent
 
-_<be honest here, e.g. "about 2 hours">_
+## Time spent
+
+About 2 hours in total, including setup and deployment. I used an AI assistant while building this and reviewed every line, so I can explain any choice in the code.
