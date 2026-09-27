@@ -55,4 +55,4 @@ All rules live in `schema.ts`. The form uses `schemaResolver(assessmentSchema, {
 
 ## Time spent
 
-About 2 hours in total, including setup and deployment. I used an AI assistant while building this and reviewed every line, so I can explain any choice in the code.
+About 2 hours in total, including setup and deployment. I used an AI assistant while building this and reviewed every line, so I can explain any choice in the code. 
